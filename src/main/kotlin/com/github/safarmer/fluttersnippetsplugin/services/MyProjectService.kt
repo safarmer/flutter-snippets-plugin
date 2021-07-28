@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.safarmer.fluttersnippetsplugin.services
 
+import com.github.safarmer.fluttersnippetsplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
